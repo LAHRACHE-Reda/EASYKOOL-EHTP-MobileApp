@@ -10,3 +10,4 @@ Technologies :
   <li>Firebase</li>
   <li>Sqlite</li>
 </ul>
+Web App version : https://github.com/LAHRACHE-Reda/EASYKOOL-EHTP-WebApp
